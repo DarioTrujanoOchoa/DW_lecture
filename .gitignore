@@ -2,5 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+# no track of data files (or others we are not interested)
 *.DS_Store
 econ_lecture.Rproj
+*.csv
